@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1760236712057,
+      "tag": "0000_dapper_squirrel_girl",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1760238807485,
+      "tag": "0001_clammy_speedball",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1760289133621,
+      "tag": "0002_common_preak",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1760294888260,
+      "tag": "0003_true_nebula",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1760627634304,
+      "tag": "0004_tranquil_strong_guy",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1762106278240,
+      "tag": "0005_material_firebrand",
+      "breakpoints": true
+    }
+  ]
+}
